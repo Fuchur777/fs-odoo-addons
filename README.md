@@ -1,0 +1,1 @@
+# fs-odoo-addons
